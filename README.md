@@ -1,3 +1,5 @@
+# NOT MAINTAINED - STARTED WITH DWM
+
 # ArcoLinux BYOI dwm desktop
 
 # Get your code to build your own iso
