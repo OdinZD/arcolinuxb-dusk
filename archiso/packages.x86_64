@@ -472,7 +472,7 @@ grub-customizer
 #hardcode-fixer-git
 #inxi
 mintstick-git
-#neofetch
+neofetch
 #numix-gtk-theme-git
 pamac-all
 #pamac-aur
